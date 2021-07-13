@@ -1,0 +1,7 @@
+6
+t03d	Sabotino Inghilterra 20/10/2019 8:10:00	8:25:00 0
+b02f	Ferraris Matteotti 19/10/2019 10:15:00 10:30:00 3
+t04d	Castello Cavalli 04/09/2019 17:32:00 17:50:00 4
+t17r	Rossini Legnano 21/06/2019 15:40:00 16:00:00 3
+b02f	Ferraris Matteotti 15/11/2019 10:25:00 10:47:00 25
+t04d	Castello Cavalli 17/11/2019 17:48:00 18:20:00 4

@@ -1,0 +1,12 @@
+20170203_teoria
+
+ES1
+	bin.ca2: 11101011	dec: -21
+	bin.ca2: 01001		dec: +9
+	bin.ca2: 0011		dec: +3
+
+ES2
+	non si capisce cosa ci sia scritto :(
+
+ES3
+	I registri della CPU sono elementi di memoria locale usati per conservare temporaneamente dei dati (come ad esempio dei risultati parziali di un'operazione). 
