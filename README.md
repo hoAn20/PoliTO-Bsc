@@ -1,2 +1,2 @@
 # PoliTO-BSc
-Code from some courses I attended during my Bachelor's degree at Politecnico di Torino (Turin, Italy).
+Code from some courses I attended during my Bachelor's degree in Computer Engineering at Politecnico di Torino (Turin, Italy).
