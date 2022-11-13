@@ -1,2 +1,2 @@
-# IoT
-Laboratories assigned while attending "Informtatica" (Programming) course at Politecnico di Torino (Turin, Italy) academic year 2020-2021
+## Informatica - CE @ PoliTO ay 2018-2019
+Code from some past exam I wrote to prepare the exam "Informatica" (Programming).
