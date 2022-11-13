@@ -1,2 +1,2 @@
 ## Algoritmi e programmazione - CE @ Polito ay 2019-2020
-Laboratories assigned while attending "Algoritmi e Programmazione" (Algorithms and Programming) course at Politecnico di Torino (Turin, Italy) academic year 2019-2020
+Laboratories' code and exam code wrote for "Algoritmi e Programmazione" (Algorithms and Programming) course.
