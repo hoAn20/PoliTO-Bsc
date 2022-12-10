@@ -1,7 +1,7 @@
-A00000 Cagnasso Pietro 20/2/1999 Vinadio Torino 10139
-A00001 Morra Andreas 16/12/1999 Scaglione Alba 12051
-A00002 Gatto Giacomo 2/6/1999 Longhi Alba 12051
-A00003 Revello Niklas 23/9/1999 Annunziata LaMorra 12064
-A00004 Boglietti Matteo 27/12/1999 Bandiera Alba 12051
-A00005 Sandrone Giacomo 29/9/1999 Pugnane Barolo 12060
-A00006 Battaglia Giorgio 9/9/1999 Oberdan Alba 12051
+A00000 Cgn Ptr 01/2/1900 Vnd Torino 10139
+A00001 Mrr Ndr 01/12/1900 Scg Alba 12051
+A00002 Gtt Gcm 01/6/1900 Lng Alba 12051
+A00003 Rll Nls 01/9/1900 NNz LaMorra 12064
+A00004 Bgt Mtt 02/12/1900 Bnd Alba 12051
+A00005 Snd Gcm 02/9/1900 Pgn Barolo 12060
+A00006 Btt Grg 03/9/1900 Brd Alba 12051
