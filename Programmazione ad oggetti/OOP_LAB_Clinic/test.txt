@@ -1,5 +1,5 @@
-P;Frappi;Pein;FRPN
-P;Andrea;Carbonati;ANCAR
-P;Mattia;Cacciatore;MTCAC
-M;1234;Giocanni;Actis;GNACT;Cardiologo
-M;4516;Giacomo;Bartolucci;GCBRT;Ortopedico
+P;Francesco;De;FRDE
+P;Andrea;Ca;ANCA
+P;Mattia;Ca;MTCA
+M;1234;Giovanni;Ac;GNAC;Idraulico
+M;4516;Giacomo;Ga;GCGA;Ottico
